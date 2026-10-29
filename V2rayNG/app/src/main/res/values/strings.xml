@@ -18,3 +18,13 @@
     <string name="notification_channel_subscription_updates">Subscription updates</string>
     <string name="notification_channel_connection_checks">Connection checks</string>
     <string name="notification_action_stop_v2ray">Stop</string>
+    <string name="toast_permission_denied">Permission denied</string>
+    <string name="toast_permission_denied_notification">Notification permission denied</string>
+    <string name="notification_action_more">Tap for more</string>
+    <string name="toast_services_start">Starting service</string>
+    <string name="toast_services_stop">Stopping service</string>
+    <string name="toast_services_success">Service started successfully</string>
+    <string name="toast_services_failure">Failed to start service</string>
+
+    <!-- NOTE: Full original strings restored with only app_name and notification channel changed. -->
+</resources>
